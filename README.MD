@@ -1,1 +1,1 @@
-https://github.com/Duduben100/Simulador-de-Piano.git
+https://duduben100.github.io/Simulador-de-Piano/
